@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Sisonke msezane from South Africa, and I'm an aspiring Software Developer.
+I enjoy learnig new launguages and frameworks like Java, C#, Python, Flutter and React, as well as backend technologies like MySQL, Spring.
 
 <!--
 **simseza022/simseza022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
