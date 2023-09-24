@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sisonke msezane from South Africa, and I'm an aspiring Software Developer.
+I'm Sisonke msezane from Johannesburg, South Africa, and I'm an aspiring Software Developer.
 I enjoy learnig new launguages and frameworks like Java, C#, Python, Flutter and React, as well as backend technologies like MySQL, Spring.
 
 🌱 I’m currently learning Web Development!
